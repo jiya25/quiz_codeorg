@@ -1,0 +1,49 @@
+
+body{
+	background: #FFFFFF;
+}
+
+body{
+	background: #ffffff;
+}
+
+.Heading{
+	text-align: center;
+    font-family: 'Potta One', cursive;
+    color: #424543;
+    margin-bottom: 50px;
+}
+
+.btn-quiz{
+	margin-bottom: 35px;
+	cursor: pointer;
+	height: 60px;
+	width: 180px;
+	font-size: 1.1rem;
+	font-family: 'Yusei Magic', sans-serif;
+	background: #00a2ff;
+}
+
+.btn-quiz a{
+   color: #ffffff;
+   background-color: #00a2ff;
+   text-decoration: none;
+}
+
+.btn-quiz a:hover{
+	transition: 0.8s;
+	background: #00a2ff;
+	color: #ffffff;
+}
+
+.btn-quiz:hover{
+	transition: 0.8s;
+	background: #ffffff;
+	color: #00a2ff;
+}
+
+.btn-quiz:hover a{
+	transition: 0.8s;
+	background: #ffffff;
+	color: #00a2ff;
+}
